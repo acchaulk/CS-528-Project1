@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="flag_screen">Flag Quiz</string>
+    <string name="box_screen">Boxes</string>
+    <string name="web_screen">Websites</string>
+    <string name="address_screen">Address Book</string>
+    <string name="title_activity_box_screen">BoxScreen</string>
+    <string name="title_activity_web_screen">WebScreenActivity</string>
+    <string name="title_activity_address_screen">AddressScreenActivity</string>
+</resources>

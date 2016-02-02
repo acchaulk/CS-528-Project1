@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".FlagScreenActivity">
+    <item
+        android:id="@+id/flag_screen"
+        android:orderInCategory="100"
+        android:title="@string/flag_screen"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/box_screen"
+        android:orderInCategory="100"
+        android:title="@string/box_screen"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/web_screen"
+        android:orderInCategory="100"
+        android:title="@string/web_screen"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/address_screen"
+        android:orderInCategory="100"
+        android:title="@string/address_screen"
+        app:showAsAction="never" />
+
+</menu>
