@@ -7,4 +7,7 @@
     <string name="title_activity_box_screen">BoxScreen</string>
     <string name="title_activity_web_screen">WebScreenActivity</string>
     <string name="title_activity_address_screen">AddressScreenActivity</string>
+
+    <color name="screen1_color">#FBF8CB</color>
+    <color name="white_color">#ffffff</color>
 </resources>
